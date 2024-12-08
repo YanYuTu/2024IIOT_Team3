@@ -43,7 +43,7 @@ pip install flask opencv-python ultralytics numpy
 Clone this repository onto your Raspberry Pi:
 
 ```bash
-git clone https://github.com/your-repo/smart-parking-system.git
+git clone https://github.com/YanYuTu/2024IIOT_Team3.git
 cd smart-parking-system
 ```
 ### 3. Configure Blynk Authentication
