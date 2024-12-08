@@ -73,7 +73,7 @@ calibrated_positions = [
 ```bash
 python smart_parking.py
 ```
-2. Open a browser and navigate to http://<your-raspberry-pi-ip>:5000 to view the live stream.
+2. Open a browser and navigate to `http://<your-raspberry-pi-ip>:5000` to view the live stream.
 3. Parking statuses are automatically updated to your Blynk dashboard.
 
 ---
