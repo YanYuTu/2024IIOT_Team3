@@ -78,6 +78,21 @@ python smart_parking.py
 
 ---
 
+## Team Members's Role
+
+- 羅偉明 - M11302001: Designed and implemented the core YOLO detection system on Raspberry Pi.
+- 蔡明羲 - M11215056: Documented processes and results; Co-developed the project results webpage; Integrated with Blynk for real-time visualization.
+- 范平 - M11351006: Built hardware prototypes and 3D models; Developed the project results webpage.
+- 凃晏瑜 - M11351007: Supported coding and resolved technical issues; Led project vision, innovation, and presentation.
+
+---
+
+## Webpage link
+
+https://alsk124215545.wixsite.com/my-site
+
+---
+
 ## License
 
 This project is licensed under the MIT License. Feel free to use, modify, and distribute it.
